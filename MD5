@@ -1,8 +1,8 @@
-531322bd16223b077ce42f7632e83b96 *DESCRIPTION
-1b0dec51a4368abe4ebb4c8051c80f40 *LICENSE
+0ed61b4272406106da2c3bc0c577d571 *DESCRIPTION
+c58c6ec9521336620d72e7f8338b3c33 *LICENSE
 d81c2162400032f60cc19a8da25e856d *NAMESPACE
 a97b6cec44532293739b1e3b4cdd7ad6 *R/snappy.R
-a71b196e170d874f07a7f2f71b00e42a *README.md
+503ec2b105410d953c04374d72e04d05 *README.md
 e3cacd07be41170ed134382ca09fa309 *man/snappier.Rd
 0a0125d4ffe1d3a95080842f77ea5ad8 *src/config.h
 fc34965ef4e4b8d729db7ec9a02f977e *src/init.c
@@ -20,4 +20,4 @@ f9c747ae79b7a4fd0c1775c1696d5e11 *src/snappy-stubs-public.h
 6d37ca891f11ac119da2a435302a7b8c *src/snappy.cc
 c8eb364baec3c5793b074fc3b04efbf4 *src/snappy.h
 508d8b4ee3ed914f4034cc1700998c4e *tests/testthat.R
-b00721890012209211385bf8c5b862d6 *tests/testthat/test_tripping.R
+743978b2149c5eae44fa920bdb1c2249 *tests/testthat/test_tripping.R
